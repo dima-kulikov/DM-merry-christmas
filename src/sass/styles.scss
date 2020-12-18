@@ -111,7 +111,13 @@ body {
         line-height: 160%;
       }
     }
-    input[type='text'] {
+    // input[type='text'] {
+    //   width: 87%;
+    //   @media only screen and (max-width: 650px) {
+    //     width: 100%;
+    //   }
+    // }
+    .decoration__text {
       width: 87%;
       @media only screen and (max-width: 650px) {
         width: 100%;
